@@ -1,0 +1,1 @@
+web: java -jar G:\Git\RegisterationService-master\target\RegisterationService-0.0.1-SNAPSHOT.jar server G:\Git\RegisterationService-master\configuration\local-config.yml
